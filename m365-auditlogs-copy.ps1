@@ -9,7 +9,7 @@
     loginAccount: Office 365 login account used to access the admin area
 
 .Utilization sample
-    .\auditlog.ps1 -startDate 11/01/2020 -endDate 11/30/2020 -logfile auditlogs.json -loginaccount some.user@somedomain.com
+    .\m365-auditlogs-copy.ps1 -startDate 11/01/2020 -endDate 11/30/2020 -logfile .\auditlogs.json -loginaccount some.user@somedomain.com
 
 Author	: Renato Pinheiro de Souza
 Version : v0.3
