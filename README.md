@@ -1,7 +1,3 @@
-### Description:
-A collection of scripts and tools for system administration tasks.
-
-### README.md:
 ```markdown
 # sysadmin-stuff
 
