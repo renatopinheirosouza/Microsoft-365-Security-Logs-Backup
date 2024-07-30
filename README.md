@@ -15,7 +15,7 @@ Welcome to the `sysadmin-stuff` repository! This repository contains a variety o
 To get started with any of the scripts in this repository, simply clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/sysadmin-stuff.git
+git clone https://github.com/renatopinheirosouza/sysadmin-stuff.git
 ```
 
 Navigate to the desired directory and follow the instructions provided in the script's documentation.
