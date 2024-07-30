@@ -1,4 +1,3 @@
-```markdown
 # sysadmin-stuff
 
 Welcome to the `sysadmin-stuff` repository! This repository contains a variety of scripts and tools to help with various system administration tasks. Whether you're automating routine tasks, managing configurations, or performing system maintenance, you'll find useful resources here.
@@ -32,4 +31,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 Thanks to all the contributors who have provided scripts and tools to help make system administration easier and more efficient.
-```
